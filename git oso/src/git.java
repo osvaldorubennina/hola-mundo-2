@@ -5,7 +5,7 @@ public class git {
 
 	   System.out.print ("Hola mundo");
 
-	   System.out.println ("di "+args[0]+" "+args[1]);
+	   System.out.println ();
 
 	}
 
